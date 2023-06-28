@@ -9,8 +9,8 @@
 
 <b>O funcionário do Departamento de Marketing solicita uma compra. O gerente pode aprovar, reprovar ou gerar uma pendência na compra. 
  
-1- Se reprovar, o processo finaliza em reprovado. 
-2- Se aprovar, deve ser encerrar com aprovado.
+1- Se reprovar, o processo finaliza em reprovado. </br>
+2- Se aprovar, deve ser encerrar com aprovado. </br>
 3- Se gerar pendência, o funcionário de Marketing deve fazer as correções e envias novamente para aprovação.</b>
 
 
